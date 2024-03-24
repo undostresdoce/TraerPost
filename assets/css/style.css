@@ -1,0 +1,12 @@
+#post-data {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border: 2px solid #c13d60;
+  padding: 20px;
+}
+
+#btn:hover {
+  background-color: deeppink;
+}
